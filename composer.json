@@ -1,0 +1,6 @@
+{
+    "name": "khemery/festival",
+    "require": {
+        "mpdf/mpdf": "^7.0"
+    }
+}
